@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://github.com/NikolayKorbankov/smeshnyavkatv/blob/main/logos/smeshnyavkatv.png?raw=true",СМЕШНЯВКА ТВ
-https://s.catcast.tv/content/47972/index.m3u8?token=ea30ca396688207802a055c707a626f8
+https://s.catcast.tv/content/47972/index.m3u8?token=85edef30c9a2a266f0ab4458eebbbe51
 #EXTINF:-1, tvg-logo="https://github.com/NikolayKorbankov/smeshnyavkatv/blob/main/logos/belsat.png?raw=true",БЕЛСАТ ТВ
 https://megaponu.github.io/koncert/video/pidor.mp4
